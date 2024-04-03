@@ -3,3 +3,4 @@ Exemplo:
  - Pitch;
  - Cronograma;
  - Planilha de orçamento;
+ - Kickoff
